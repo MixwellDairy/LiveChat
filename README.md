@@ -9,5 +9,4 @@ Start the server with node server.js.
 
 Open your browser and go to http://localhost:3000 to use your live chat.
 
-Link to download: [https://Node.js
-](https://nodejs.org/en/download)
+[Click To Download](https://nodejs.org/en/download)
